@@ -1,8 +1,6 @@
 const database = {
-    "BR56": "Ge mig en puss pluttis",
-    "ALPHA": "Kod ALPHA: Innehåller detaljer om en hemlig agent.",
-    "DELTA": "Kod DELTA: Relaterad till en förlorad fil från 1994.",
-    "OMEGA": "Kod OMEGA: Avancerad kryptering använd för militärt skydd."
+    "KTAAAOEPEEEEA": "KGB är efter mig",
+    "k t a a a o e p e e e e a": "KGB är efter mig"
 };
 
 const searchBox = document.getElementById("searchBox");
@@ -70,7 +68,7 @@ function updateLog(input, result) {
 
 searchBox.addEventListener("keypress", function (e) {
     if (e.key === "Enter") {
-        const input = searchBox.value.toUpperCase().trim();
+        const input = searchBox.value.toUpperCase().replace(/\s+/g, "").trim();
         let result;
         if (database[input]) {
             result = database[input];
@@ -84,5 +82,4 @@ searchBox.addEventListener("keypress", function (e) {
         });
     }
 });
-
 
