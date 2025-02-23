@@ -4,7 +4,8 @@ const database = {
     "211641718197121206291820": "Uppdrag slutfört",
     "21 16 16 4 18 1 7 19 12 21 20 6 29 18 20": "Uppdrag slutfört",
     "42941652051811251912518": "Döda Peter Kessler",
-    "4 29 4 1 16 5 20 5 18 11 5 19 19 12 5 18": "Döda Peter Kessler"
+    "4 29 4 1 16 5 20 5 18 11 5 19 19 12 5 18": "Döda Peter Kessler",
+    "XN-i7 t-p f3 13:10 - 14:10 a no xch": "Särskild sändebud ankommer Hamburg–Paris natten 13-14 oktober. Säkerställ mottagande och vidare bekräftelse. Ingen extern kommunikation."
 };
 
 const searchBox = document.getElementById("searchBox");
