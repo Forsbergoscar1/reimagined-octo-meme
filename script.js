@@ -1,10 +1,10 @@
 const database = {
-    "KTAAAOEPEEEEA": "KGB är efter mig",
-    "k t a a a o e p e e e e a": "KGB är efter mig",
-    "211641718197121206291820": "Uppdrag slutfört",
-    "21 16 16 4 18 1 7 19 12 21 20 6 29 18 20": "Uppdrag slutfört",
-    "42941652051811251912518": "Döda Peter Kessler",
-    "4 29 4 1 16 5 20 5 18 11 5 19 19 12 5 18": "Döda Peter Kessler",
+    "KTAAAOEPEEEEA": "Stasi är efter mig",
+    "k t a a a o e p e e e e a": "Stasi är efter mig",
+    "21206291820": "Utfört",
+    "21 20 6 29 18 20": "Utfört",
+    "42941115191912518": "Döda Kessler",
+    "4 29 4 1 11 5 19 19 12 5 18": "Döda Kessler",
     "XN-27 T-P F3 A No XCH": "Särskild sändebud ankommer Hamburg–Paris natten 13-14 oktober. Säkerställ mottagande och vidare bekräftelse. Ingen extern kommunikation."
 };
 
