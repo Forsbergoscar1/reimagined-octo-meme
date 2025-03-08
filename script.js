@@ -6,9 +6,7 @@ const database = {
     "42941115191912518": "Döda Kessler",
     "4 29 4 1 11 5 19 19 12 5 18": "Döda Kessler",
     "XN-27 T-P F3 A No XCH": "Särskild sändebud ankommer Hamburg–Paris tidig morgon 14 oktober. Säkerställ mottagande och vidare bekräftelse. Ingen extern kommunikation.",
-    "X-14-K9T7-2ZP0": "X-14: Säkerhetsklassad enhet aktiv. Specialuppdrag bekräftat.",
-
-
+    "X-14-K9T7-2ZP0": "Agent X-14 har ny rekrytering",
 };
 
 const searchBox = document.getElementById("searchBox");
