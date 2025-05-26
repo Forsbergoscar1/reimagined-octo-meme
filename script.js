@@ -10,6 +10,8 @@ const database = {
     "X-14-K9T7-2ZPo": "Agent X-14 har ny rekrytering",
     "k t a p e l e å": "Stasi är efter mig",
     "ktapeleå": "Stasi är efter mig",
+    "Ktapeleå": "Stasi är efter mig",
+    "K t a a a o e p e e e e a": "Stasi är efter mig",
 };
 
 const searchBox = document.getElementById("searchBox");
