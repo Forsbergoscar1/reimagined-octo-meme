@@ -12,6 +12,7 @@ const database = {
     "ktapeleå": "Stasi är efter mig",
     "Ktapeleå": "Stasi är efter mig",
     "K t a a a o e p e e e e a": "Stasi är efter mig",
+    "K t a p e l e å": "Stasi är efter mig",
 };
 
 const searchBox = document.getElementById("searchBox");
