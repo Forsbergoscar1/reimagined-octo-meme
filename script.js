@@ -8,6 +8,7 @@ const database = {
     "XN-27 T-P F3 A No XCH": "Särskild sändebud ankommer Hamburg–Paris tidig morgon 14 oktober. Säkerställ mottagande och vidare bekräftelse. Ingen extern kommunikation.",
     "X-14-K9T7-2ZP0": "Agent X-14 har ny rekrytering",
     "X-14-K9T7-2ZPo": "Agent X-14 har ny rekrytering",
+    "k t a p e l e å": "Stasi är efter mig",
     "ktapeleå": "Stasi är efter mig",
     "Ktapeleå": "Stasi är efter mig",
     "K t a a a o e p e e e e a": "Stasi är efter mig",
